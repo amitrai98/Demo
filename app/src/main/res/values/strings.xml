@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="empty_msg">Can not send empty message</string>
+</resources>
